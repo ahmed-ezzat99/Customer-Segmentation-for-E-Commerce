@@ -1,5 +1,3 @@
-# Generating README.md file content
-readme_content = """
 # Customer Segmentation Using Unsupervised Learning
 
 This project applies unsupervised machine learning techniques to segment customers based on their transactional behavior and demographic data. The goal is to identify meaningful customer groups and recommend targeted marketing strategies (e.g., coupon offers) to enhance customer loyalty and satisfaction.
